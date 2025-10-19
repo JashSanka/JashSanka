@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Jash Sanka
 
-First-year student passionate about development and technology. I love building projects and exploring new technologies to solve real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Development;Tech;Problem+Solving" alt="Typing SVG" />
+</p>
+
+
+🪴 I am a First year Btech Student at Newton School Of Technology
+👨🏻‍💻 I am passionate about development and technology. I love building projects and exploring new technologies to solve real-world problems.
+🤩 Apart from this I also like playing my guitar, Watching Comic book movies, Reading Books and playing Foosball 
 
 ## 🛠️ Tech Stack
 
