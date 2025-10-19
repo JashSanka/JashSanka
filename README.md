@@ -6,7 +6,9 @@
 
 
 🪴 I am a First year Btech Student at Newton School Of Technology
+<br>
 👨🏻‍💻 I am passionate about development and technology. I love building projects and exploring new technologies to solve real-world problems.
+<br>
 🤩 Apart from this I also like playing my guitar, Watching Comic book movies, Reading Books and playing Foosball 
 
 ## 🛠️ Tech Stack
